@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Ram Singh"
 title_separator          : "-"
 name                     : &name "Ram Singh"
-description              : &description "Professor of Economics, Delhi School of Economics"
-url                      : https://ramsingh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Professor, Department of Economics, Delhi School of Economics"
+url                      : https://ramsingh-dse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ramsingh-dse/ramsingh-dse.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ram Singh"
+  name             : "Aarti"
   avatar           : "ram_web.jpg"
   bio              : ""
   location         : 
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "ramsingh@econdse.org"
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
