@@ -1,8 +1,11 @@
 ---
-layout: active
-title: "Publications"
-permalink: /publications/
+permalink: /
+title: "Open Positions"
+excerpt:
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% if author.googlescholar %}
