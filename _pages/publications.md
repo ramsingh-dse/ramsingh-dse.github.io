@@ -1,11 +1,11 @@
 ---
-permalink: /publications
+permalink: /open-positions
 title: "Open Positions"
 excerpt:
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /open-positions/
+  - /open-positions.html
 ---
 
 {% if author.googlescholar %}
