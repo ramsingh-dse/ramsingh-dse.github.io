@@ -1,10 +1,7 @@
 ---
-permalink: /open-positions
+layout: page
 title: "Open Positions"
-excerpt:
-author_profile: true
-redirect_from: 
-  - /open-positions/
+permalink: /open-positions/
 ---
 
 hi
