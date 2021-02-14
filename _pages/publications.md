@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publications
 title: "Open Positions"
 excerpt:
 author_profile: true
