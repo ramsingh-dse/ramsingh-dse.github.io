@@ -46,6 +46,5 @@ and Political Weekly, 39(25), 2004, pp. 2603-2616
 - [Efficiency of ‘simple’ liability rules when courts make erroneous estimation of the damage](https://link.springer.com/article/10.1023/A:1023980208945), European Journal of Law and Economics, 16, 2003, pp. 39-58
 - [Efficient liability rules: Complete characterization](https://link.springer.com/article/10.1007/s007120200008), (with Satish K. Jain, Jawaharlal Nehru University), Journal of Economics, 75, 2002, pp. 105-124
 
-## Other Publications
 ### Popular Writing and Op-eds
-- 1st
+I regularly write Op-eds on the Indian economy. Visit my [LinkedIn page](https://www.linkedin.com/in/ram-singh-12713018/) for regular updates.
