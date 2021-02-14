@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Economics, Delhi School of Economics.
+I am Professor at the Department of Economics, [Delhi School of Economics](http://econdse.org/). I am the Managing Director of [Centre for Development Econommics](http://cdedse.org/), Delhi School of Economics. My current research focuses on Contract Theory, Law and Economics, and Public Economics.
 
 ## Research
 ### Working Papers
