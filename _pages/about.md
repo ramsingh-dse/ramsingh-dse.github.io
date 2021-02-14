@@ -26,7 +26,7 @@ Paper, 2009
 - Incomplete Contracts, Renegotiations, and Cost Overruns
 
 ### Selected Papers
-- [Public-private Partnerships vs. Traditional Contracts for Highways: Comparison of cost and quality of roads]https://link.springer.com/article/10.1007%2Fs41775-018-0032-0), Indian Economic Review, 2 (new series), 2019, pp. 29-64
+- [Public-private Partnerships vs. Traditional Contracts for Highways: Comparison of cost and quality of roads](https://link.springer.com/article/10.1007%2Fs41775-018-0032-0), Indian Economic Review, 2 (new series), 2019, pp. 29-64
 - [Takings of Land by Self-interested Governments: Economic Analysis of Eminent Domain](https://www.journals.uchicago.edu/doi/10.1086/699242), (with Hans-Bernd Schäfer, Bucerious Law School, Germany), Journal of Law and Economics, 61(3), 2018, pp. 427-459
 - [Existence and Efficiency of Equilibria: When Care is Multidimensional](https://www.taylorfrancis.com/chapters/existence-efficiency-equilibria-care-multidimensional-ram-singh/e/10.4324/9781315684994-17)
 - [Infrastructure: Source of growth or bottleneck?](https://www.worldcat.org/title/oxford-handbook-of-the-indian-economy-in-the-21st-century-understanding-the-inherent-dynamism/oclc/894748136?referer=br&ht=edition), (with Paramjit, Delhi School of Economics), The Oxford handbook of the Indian Economy, 2015, Oxford University Press, Delhi
@@ -39,7 +39,7 @@ Paper, 2009
 - [Risk, Informational Asymmetry and Product Liability: An enquiry into conflicting objectives](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0106.2009.00437.x), Pacific Economic Review, 14, 2009, pp. 89-112
 - [Comparative Causation and Economic Efficiency: When activity level are constant](https://ideas.repec.org/a/bpj/rlecon/v3y2007i2n8.html), Review of Law and Economics, 3(2), 2007, pp. 383-406
 - [Causation-consistent Liability, Economic Efficiency and the Law of Torts](http://econdse.org/wp-content/uploads/2016/03/IRLE-2007.pdf), International Review of Law and Economics, 27(2), 2007, pp. 179-203
-- [Efficiency Characterization of Liability Rules when Liability Payments Differ from the Actual Harm]https://www.researchgate.net/publication/4801701_Efficient_Liability_Rules_When_Courts_Make_Errors_in_Estimation_of_the_Harm_Complete_Characterization), Journal of Quantitative Economics, 3, 2005, pp. 137-157
+- [Efficiency Characterization of Liability Rules when Liability Payments Differ from the Actual Harm](https://www.researchgate.net/publication/4801701_Efficient_Liability_Rules_When_Courts_Make_Errors_in_Estimation_of_the_Harm_Complete_Characterization), Journal of Quantitative Economics, 3, 2005, pp. 137-157
 - [Full Compensation Criteria: An Enquiry into Relative Merits](https://link.springer.com/article/10.1023/B:EJLE.0000045083.39477.bc), Journal of Law and Economics, 18, 2004, pp. 223-237
 - [Economics of Judicial Decision Making, Indian Tort Law: Motor Accident Cases](https://www.epw.in/journal/2004/25/special-articles/economics-judicial-decision-making-indian-tort-law.html), Economic
 and Political Weekly, 39(25), 2004, pp. 2603-2616
